@@ -19,6 +19,10 @@
     <td> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40px" title="NPM"/> </td>
     <td> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40px" title="PHP"/> </td>
     <td> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40px" title="MySQL"/> </td>
+    <td rowspan="2">
+      <a href="https://github.com/anuraghazra/github-readme-stats)">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moosmas&layout=compact&hide=typescript&theme=dark&langs_count=5"/></a>
+    </td>
   </tr>
     
   <tr>
@@ -33,8 +37,6 @@
   </tbody>
   
 </table>
-
-
 
 ---
 ## Connect with me: 🤝
