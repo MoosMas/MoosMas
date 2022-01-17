@@ -1,7 +1,8 @@
 # Tech enthousiast, software development student @ Curio, NL 👨‍🎓
 
 - 👨‍🎓 Studying software development @ Curio in the Netherlands
-- 🤓 Currently looking for an internship at a local company
+- 🤓 Starting internship at local company in February
+- 💻 Can horizontally and vertically center a div (50% of the time)
 - 👨‍🚀 Space geek
 - 🥁 Plays the drums
 
