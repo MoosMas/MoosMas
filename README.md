@@ -44,4 +44,4 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sambrands)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoosMas)
-[![](https://img.shields.io/endpoint?label=%20&url=https%3A%2F%2Fsambrands.dev%2Fbadge.json)](https://sambrands.dev)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fsambrands.dev%2Fbadge.json)](https://sambrands.dev)
